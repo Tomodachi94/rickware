@@ -1,6 +1,6 @@
-# Tomodachi's Black Box
+# RickWare
 
-A black box that does something. I'm not entirely sure what, but it compiled...
+A program to rickroll people with.
 
 Licensed under the CC0 because it is literally useless.
 
