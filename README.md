@@ -26,6 +26,6 @@ until it works, then compile for the masses.
 
 ## Testimonails
 
-> if anyone just compiles and runs it [The Black Box] on their machine, they deserve whatever happens to them
+> if anyone just compiles and runs it [Rickware] on their machine, they deserve whatever happens to them
 >
 > -- Anonymous, testimonial
