@@ -29,7 +29,7 @@ cargo build
 ```
 until it works, then compile for the masses.
 
-## Testimonails
+## Testimonials
 
 > if anyone just compiles and runs it [Rickware] on their machine, they deserve whatever happens to them
 >
